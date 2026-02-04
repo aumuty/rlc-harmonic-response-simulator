@@ -1,5 +1,13 @@
 # RLC Circuit Harmonic Response Simulator
 
+
+<img width="640" height="480" alt="Fig 2 Voltage vs Time for w=0 01" src="https://github.com/user-attachments/assets/14651b50-b5a7-4c33-9584-6261ba99f763" />
+
+<img width="640" height="480" alt="Fig 4 Bode diagram for given inputs at Fig 1" src="https://github.com/user-attachments/assets/9ea55d02-d40b-41a6-957b-4934c720c022" />
+
+
+
+
 This project models and simulates the steady-state response of a second-order **RLC electrical circuit** under harmonic excitation.
 
 The system is governed by the differential equation:
@@ -44,3 +52,5 @@ It is converted into a state-space representation and solved numerically.
 This project was developed as part of the **Real-Time System Design Course Laboratory Work**.
 
 ---
+
+
