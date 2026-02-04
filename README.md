@@ -4,7 +4,7 @@ This project models and simulates the steady-state response of a second-order **
 
 The system is governed by the differential equation:
 
-<img width="410" height="87" alt="image" src="https://github.com/user-attachments/assets/cc4956b5-5de1-4eb0-a42b-3ac644326f9a" />
+<img width="428" height="90" alt="image" src="https://github.com/user-attachments/assets/9693dc98-0daf-4c7c-8300-77afa1c0af81" />
 
 It is converted into a state-space representation and solved numerically.
 
